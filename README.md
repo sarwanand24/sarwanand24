@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Nikhil's Stats](https://github-readme-stats.vercel.app/api?username=sarwanand24&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![Nikhil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarwanand24&theme=tokyonight&hide_border=true)
+
+![Nikhil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwanand24&theme=tokyonight&show_icons=true&hide_border=true&layout=donut-vertical)
+
 <!--
 **sarwanand24/sarwanand24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
