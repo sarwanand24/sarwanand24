@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-![sarwanand24's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarwanand24&show_icons=true&theme=tokyonight)
+![sarwanand24's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarwanand24&show_icons=true&theme=radical)
 
-![sarwanand24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarwanand24&theme=tokyonight&hide_border=true)
+![sarwanand24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarwanand24&theme=radical&hide_border=true)
 
-![sarwanand24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwanand24&theme=tokyonight&show_icons=true&hide_border=true&layout=donut)
+![sarwanand24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwanand24&theme=radical&show_icons=true&hide_border=true&layout=donut)
 
 <!--
 **sarwanand24/sarwanand24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
